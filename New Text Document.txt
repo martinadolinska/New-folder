@@ -18,5 +18,8 @@ Hello, I am Ben
 I will change the end 
 I will work now here -Ben
 I work here -Anne
+
+I fixed a bug -all good now!
+
 Perfect we can work together at the same time
 
