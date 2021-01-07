@@ -8,5 +8,9 @@ and again
 
 Hi this is Anne editing
 
+<<<<<<< HEAD
 Wecome Ben, nice to meet you
+=======
+Hello, I am Ben
+>>>>>>> e6198bfeb0f22c31374047051c57330f9c0883fc
 
